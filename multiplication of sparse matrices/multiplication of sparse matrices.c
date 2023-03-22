@@ -94,7 +94,7 @@ int compact_matrix(int sparse_matrix_1[][4], int row , struct data compact_matri
 
 
 int multiply(struct data compact_matrix_1[] , struct data compact_matrix_2[] , struct data result_matrix[] , int count1 , int count2){  
-	// reference : https://youtu.be/x70zNUIHR0k   There is no code in this video. I wrote the code myself using the algorithm here.
+	
 	
 	int count3=1;   
 	bool isthere = false;  
