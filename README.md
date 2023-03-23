@@ -3,6 +3,7 @@
 
 
 Preliminary information:
+
 • Sparse matrix is a matrix with most of its elements equal to zero. If the number of 0's greater
 than half of the total elements in a matrix, then the matrix can be called sparse matrix.
 
